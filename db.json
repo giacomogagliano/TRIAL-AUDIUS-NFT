@@ -6,5 +6,13 @@
           "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
           "name": "NFT Audius prova 0.0"
       }
-  ]
+  ],
+  "v0.1": [
+    {
+        "description": "proviamo a fare un NFT con il link di audius direttamente",
+        "external_url": "https://audius.co/gotektnl/gotek-arrivals-161929",
+        "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+        "name": "NFT Audius prova 0.0"
+    }
+]
 }
