@@ -1,46 +1,47 @@
 {
-  "tokens": [
-      {
-          "description": "proviamo a fare un NFT con il link di audius direttamente",
-          "external_url": "https://audius.co/gotektnl/gotek-arrivals-161929",
-          "image": "https://www.finsmes.com/wp-content/uploads/2018/08/audius.jpg",
-          "name": "NFT Audius prova 0.0"
-      }
-  ],
-
-  "v0.1": [
-    {
-        "description": "proviamo a fare un NFT con il link di audius direttamente",
-        "external_url": "https://creatornode3.audius.co/ipfs/QmR4EGpdtjnsBNFDNJk5SApGWP9nLfmid6Z8diJUvWoFeG?filename=HK%20Ravolt%20%F0%9F%92%A3%20%28vs.%20Exit%3AWorld%29%20-%20PP_RhuM%20%28Audius%29.mp3",
-        "image": "https://www.finsmes.com/wp-content/uploads/2018/08/audius.jpg",
-        "name": "NFT Audius prova 0.1"
-    }
-  ],
-
-  "v0.2": [
+  "tokens":
   {
       "description": "proviamo a fare un NFT con il link di audius direttamente",
-      "image": "https://creatornode3.audius.co/ipfs/QmR4EGpdtjnsBNFDNJk5SApGWP9nLfmid6Z8diJUvWoFeG?filename=HK%20Ravolt%20%F0%9F%92%A3%20%28vs.%20Exit%3AWorld%29%20-%20PP_RhuM%20%28Audius%29.mp3",
-      "name": "NFT Audius prova 0.2"
-  }
+      "external_url": "https://audius.co/gotektnl/gotek-arrivals-161929",
+      "image": "https://www.finsmes.com/wp-content/uploads/2018/08/audius.jpg",
+      "name": "NFT Audius prova 0.0"
+  },
 
-]
-}
-{
-  "title": "Asset Metadata",
-  "type": "object",
-  "properties": {
-      "name": {
-          "type": "string",
-          "description": "Identifies the asset to which this NFT represents"
-      },
-      "description": {
-          "type": "string",
-          "description": "Describes the asset to which this NFT represents"
-      },
-      "image": {
-          "type": "string",
-          "description": "A URI pointing to a resource with mime type image/* representing the asset to which this NFT represents. Consider making any images at a width between 320 and 1080 pixels and aspect ratio between 1.91:1 and 4:5 inclusive."
-      }
+  "v0.1": 
+  {
+      "description": "proviamo a fare un NFT con il link di audius direttamente",
+      "external_url": "https://creatornode3.audius.co/ipfs/QmR4EGpdtjnsBNFDNJk5SApGWP9nLfmid6Z8diJUvWoFeG?filename=HK%20Ravolt%20%F0%9F%92%A3%20%28vs.%20Exit%3AWorld%29%20-%20PP_RhuM%20%28Audius%29.mp3",
+      "image": "https://www.finsmes.com/wp-content/uploads/2018/08/audius.jpg",
+      "name": "NFT Audius prova 0.1"
+  },
+
+  "v0.2":  
+  {
+    "description": "proviamo a fare un NFT con il link di audius direttamente",
+    "image": "https://creatornode3.audius.co/ipfs/QmR4EGpdtjnsBNFDNJk5SApGWP9nLfmid6Z8diJUvWoFeG?filename=HK%20Ravolt%20%F0%9F%92%A3%20%28vs.%20Exit%3AWorld%29%20-%20PP_RhuM%20%28Audius%29.mp3",
+    "name": "NFT Audius prova 0.2"
+  },
+
+  "v0.3": 
+  {
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Identifies the asset to which this NFT represents"
+        },
+        "description": {
+            "type": "string",
+            "description": "Describes the asset to which this NFT represents"
+        },
+        "image": {
+            "type": "string",
+            "description": "A URI pointing to a resource with mime type image/* representing the asset to which this NFT represents. Consider making any images at a width between 320 and 1080 pixels and aspect ratio between 1.91:1 and 4:5 inclusive."
+        }
+    }
   }
+    
+
+
 }
