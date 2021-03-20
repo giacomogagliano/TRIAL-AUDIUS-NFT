@@ -11,7 +11,7 @@ contract NFTAudius is ERC721, Ownable {
     Counters.Counter private _tokenIds;
     
     constructor()
-    ERC721("NFT from Audius files v0.3","NFTAudiusv0.2") {
+    ERC721("NFT from Audius files v0.3","NFTAudiusv0.3") {
         _setBaseURI("https://my-json-server.typicode.com/giacomogagliano/TRIAL-AUDIUS-NFT/v0.3");
     }
     
