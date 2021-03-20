@@ -27,18 +27,9 @@
     "title": "Asset Metadata",
     "type": "object",
     "properties": {
-        "name": {
-            "type": "string",
-            "description": "Identifies the asset to which this NFT represents"
-        },
-        "description": {
-            "type": "string",
-            "description": "Describes the asset to which this NFT represents"
-        },
-        "image": {
-            "type": "string",
-            "description": "A URI pointing to a resource with mime type image/* representing the asset to which this NFT represents. Consider making any images at a width between 320 and 1080 pixels and aspect ratio between 1.91:1 and 4:5 inclusive."
-        }
+        "name": "NFTAudius v0.3",
+        "description": "This is a trial for and NFT with mp3 from Audius",
+        "image": "https://creatornode3.audius.co/ipfs/QmR4EGpdtjnsBNFDNJk5SApGWP9nLfmid6Z8diJUvWoFeG?filename=HK%20Ravolt%20%F0%9F%92%A3%20%28vs.%20Exit%3AWorld%29%20-%20PP_RhuM%20%28Audius%29.mp3"
     }
   }
 
