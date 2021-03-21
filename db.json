@@ -24,7 +24,7 @@
 
   "v0.21":  
   {
-    "description": "proviamo a fare un NFT con il link di audius direttamente",
+    "description": "Let's try to mint an NFT with mp3 from Audius",
     "image": "https://f4.bcbits.com/img/0019892093_10.jpg",
     "animation_url": "https://audius.co/gotektnl/gotek-arrivals-161929",
     "name": "NFT Audius prova 0.2"
