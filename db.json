@@ -1,18 +1,18 @@
 {
   "tokens":
   {
-      "description": "proviamo a fare un NFT con il link di audius direttamente",
-      "external_url": "https://audius.co/gotektnl/gotek-arrivals-161929",
-      "image": "https://www.finsmes.com/wp-content/uploads/2018/08/audius.jpg",
-      "name": "NFT Audius prova 0.0"
+    "description": "proviamo a fare un NFT con il link di audius direttamente",
+    "external_url": "https://audius.co/gotektnl/gotek-arrivals-161929",
+    "image": "https://www.finsmes.com/wp-content/uploads/2018/08/audius.jpg",
+    "name": "NFT Audius prova 0.0"
   },
 
   "v0.1": 
   {
-      "description": "proviamo a fare un NFT con il link di audius direttamente",
-      "external_url": "https://creatornode3.audius.co/ipfs/QmR4EGpdtjnsBNFDNJk5SApGWP9nLfmid6Z8diJUvWoFeG?filename=HK%20Ravolt%20%F0%9F%92%A3%20%28vs.%20Exit%3AWorld%29%20-%20PP_RhuM%20%28Audius%29.mp3",
-      "image": "https://www.finsmes.com/wp-content/uploads/2018/08/audius.jpg",
-      "name": "NFT Audius prova 0.1"
+    "description": "proviamo a fare un NFT con il link di audius direttamente",
+    "external_url": "https://creatornode3.audius.co/ipfs/QmR4EGpdtjnsBNFDNJk5SApGWP9nLfmid6Z8diJUvWoFeG?filename=HK%20Ravolt%20%F0%9F%92%A3%20%28vs.%20Exit%3AWorld%29%20-%20PP_RhuM%20%28Audius%29.mp3",
+    "image": "https://www.finsmes.com/wp-content/uploads/2018/08/audius.jpg",
+    "name": "NFT Audius prova 0.1"
   },
 
   "v0.2":  
@@ -26,16 +26,16 @@
   {
     "description": "Let's try to mint an NFT with mp3 from Audius",
     "image": "https://f4.bcbits.com/img/0019892093_10.jpg",
-    "animation_url": "https://www.dropbox.com/s/4kcvgcrfs1b68us/Noa%20-%20Sunshine%20Inside.mp3?dl=0",
+    "animation_url": "ipfs://QmR4EGpdtjnsBNFDNJk5SApGWP9nLfmid6Z8diJUvWoFeG",
     "name": "NFT Audius prova 0.2"
   },
 
   "v0.4": 
   {
-      "name": "NFTAudius v0.3",
-      "description": "This is a trial for and NFT with mp3 from Audius",
-      "animation_url": "https://audius.co/gotektnl/gotek-arrivals-161929",
-      "image": "https://f4.bcbits.com/img/0019892093_10.jpg"
+    "name": "NFTAudius v0.3",
+    "description": "This is a trial for and NFT with mp3 from Audius",
+    "animation_url": "https://audius.co/gotektnl/gotek-arrivals-161929",
+    "image": "https://f4.bcbits.com/img/0019892093_10.jpg"
   }
 
 }
